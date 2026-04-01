@@ -3,6 +3,7 @@
 中文说明在前，英文说明在后。
 
 ## 中文
+<img width="1692" height="551" alt="01066bfeaa25f46176d21b4ef1a645f8" src="https://github.com/user-attachments/assets/c006cf1e-39ef-4f5b-8c33-24ec51923902" />
 
 `thesis-format-repair` 是一个面向 Codex 的论文格式修复 skill，用于“先读规范，再改文档”的论文排版修复流程。
 
