@@ -113,6 +113,10 @@ python scripts/extract_docx_paragraphs.py <spec.docx> --grep "<keywords>"
 
 这个仓库用于单独发布和维护 `thesis-format-repair` skill，方便版本管理、分享和复用。
 
+### 许可证
+
+本仓库使用 `Apache-2.0` 许可证，详见 `LICENSE` 文件。
+
 ## English
 
 `thesis-format-repair` is a Codex skill for specification-first thesis formatting repair.
@@ -224,3 +228,7 @@ A typical run should produce:
 ### Repository Purpose
 
 This repository packages the full `thesis-format-repair` skill so it can be versioned, shared, and reused independently.
+
+### License
+
+This repository is licensed under `Apache-2.0`. See `LICENSE` for details.
